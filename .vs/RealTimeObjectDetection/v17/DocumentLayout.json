@@ -1,18 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\",
+  "WorkspaceRootPath": "C:\\Users\\marce\\Desktop\\Repositories\\RealTimeObjectDetection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\cuda_utils.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|solutionrelative:cuda_utils.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\cuda_utils.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\detection_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|solutionrelative:detection_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\detection_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,39 +26,35 @@
               "DocumentIndex": 1,
               "Title": "cuda_utils.cuh",
               "DocumentMoniker": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\cuda_utils.cuh",
-              "RelativeDocumentMoniker": "cuda_utils.cuh",
+              "RelativeDocumentMoniker": "..\\red_eye_removal_cuda\\RealTimeObjectDetection\\cuda_utils.cuh",
               "ToolTip": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\cuda_utils.cuh",
-              "RelativeToolTip": "cuda_utils.cuh",
+              "RelativeToolTip": "..\\red_eye_removal_cuda\\RealTimeObjectDetection\\cuda_utils.cuh",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-24T01:36:26.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T01:36:26.788Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
+              "RelativeDocumentMoniker": "..\\red_eye_removal_cuda\\RealTimeObjectDetection\\main.cpp",
               "ToolTip": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "RelativeToolTip": "..\\red_eye_removal_cuda\\RealTimeObjectDetection\\main.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T01:34:22.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T01:34:22.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "detection_kernel.cu",
               "DocumentMoniker": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\detection_kernel.cu",
-              "RelativeDocumentMoniker": "detection_kernel.cu",
+              "RelativeDocumentMoniker": "..\\red_eye_removal_cuda\\RealTimeObjectDetection\\detection_kernel.cu",
               "ToolTip": "C:\\Users\\marce\\Desktop\\Repositories\\red_eye_removal_cuda\\RealTimeObjectDetection\\detection_kernel.cu",
-              "RelativeToolTip": "detection_kernel.cu",
+              "RelativeToolTip": "..\\red_eye_removal_cuda\\RealTimeObjectDetection\\detection_kernel.cu",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-24T01:33:01.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T01:33:01.226Z"
             }
           ]
         }
