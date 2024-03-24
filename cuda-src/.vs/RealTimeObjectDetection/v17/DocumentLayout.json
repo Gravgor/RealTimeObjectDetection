@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marce\\Desktop\\Repositories\\RealTimeObjectDetection\\src\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\marce\\Desktop\\Repositories\\RealTimeObjectDetection\\cuda-src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|C:\\Users\\marce\\Desktop\\Repositories\\RealTimeObjectDetection\\cuda-src\\detection_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{400E4E86-8C29-4CC6-8625-8A2C88D15AD0}|RealTimeObjectDetection.vcxproj|solutionrelative:detection_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "detection_kernel.cu",
+              "DocumentMoniker": "C:\\Users\\marce\\Desktop\\Repositories\\RealTimeObjectDetection\\cuda-src\\detection_kernel.cu",
+              "RelativeDocumentMoniker": "detection_kernel.cu",
+              "ToolTip": "C:\\Users\\marce\\Desktop\\Repositories\\RealTimeObjectDetection\\cuda-src\\detection_kernel.cu",
+              "RelativeToolTip": "detection_kernel.cu",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T02:04:20.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

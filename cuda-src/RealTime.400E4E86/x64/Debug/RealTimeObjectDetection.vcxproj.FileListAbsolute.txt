@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\opencv_core4d.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\zlibd1.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\opencv_highgui4d.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\opencv_videoio4d.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\opencv_imgcodecs4d.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\opencv_imgproc4d.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\jpeg62.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\libwebpdecoder.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\libwebp.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\libsharpyuv.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\libpng16d.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\tiffd.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\x64\Debug\liblzma.dll
+C:\Users\marce\Desktop\Repositories\RealTimeObjectDetection\cuda-src\RealTime.400E4E86\x64\Debug\RealTime.C5EE7546.Up2Date
